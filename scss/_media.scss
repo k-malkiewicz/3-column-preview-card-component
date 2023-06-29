@@ -1,0 +1,20 @@
+@media (max-width: 928px) {
+    .cards {
+        margin: 3.75rem auto;
+        width: 70%;
+        grid-template-columns: 100%;
+    }
+}
+
+@media (max-width: 400px) {
+    .cards {
+        margin: 5.5rem auto;
+        width: 90%;
+        .card {
+            .more_link {
+                margin: 1.4375rem 0 0;
+                padding: .8125rem;
+            }
+        }
+    }
+}
