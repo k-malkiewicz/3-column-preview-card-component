@@ -8,7 +8,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Links
 
-- Live Site URL (I use Netlify for websites hosting) ⇒
+- Live Site URL (I use Netlify for websites hosting) ⇒ https://3-column-preview-card-km9.netlify.app
 
 ## Built with
 
